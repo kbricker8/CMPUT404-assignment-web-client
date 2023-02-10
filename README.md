@@ -3,10 +3,6 @@ CMPUT404-assignment-web-client
 
 ## Author: 
 Kyle Bricker<br>
-kbricker
-
-## Collaborators:
-
 
 ## References:
 
