@@ -1,7 +1,19 @@
 CMPUT404-assignment-web-client
 ==============================
 
-CMPUT404-assignment-web-client
+## Author: Kyle Bricker | kbricker
+
+## Collaborators:
+
+
+## References:<br>
+
+Documentation of urllib.parse:<br>
+https://docs.python.org/3/library/urllib.parse.html<br>
+
+For setting up POST requests:<br>
+Author: w3schools<br>
+https://www.w3schools.com/tags/ref_httpmethods.asp<br>
 
 See requirements.org (plain-text) for a description of the project.
 
