@@ -1,12 +1,14 @@
 CMPUT404-assignment-web-client
 ==============================
 
-## Author: Kyle Bricker | kbricker
+## Author: 
+Kyle Bricker<br>
+kbricker
 
 ## Collaborators:
 
 
-## References:<br>
+## References:
 
 Documentation of urllib.parse:<br>
 https://docs.python.org/3/library/urllib.parse.html<br>
